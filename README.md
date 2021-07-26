@@ -1,2 +1,3 @@
 # docker-laravel-handson
-# hogehoge
+# ほげほげでは味気ないので日本語を入力します。
+# 二行目も追加いたします。
